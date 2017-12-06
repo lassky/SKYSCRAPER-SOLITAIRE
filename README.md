@@ -7,4 +7,5 @@ This is an unusual game of solitaire. Remove all the CARDS above the game screen
 if you have any question about this game,please contact us with no hesitate.
 
 E-mail:kf913v@163.com
+
 Tell:+16094360942
